@@ -21,7 +21,7 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'Soft'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
+    url: 'https://github.com/aron-bordin/neo-hpstr-jekyll-theme/tree/master/demo'
   - title: 'Sharding'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
   - title: 'Tags'
