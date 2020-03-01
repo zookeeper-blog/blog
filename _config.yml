@@ -20,9 +20,9 @@ url: https://zookeeper-blog.github.io
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Software'
+  - title: 'fork'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Sharding'
+  - title: 'I'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
   - title: 'Tags'
     url: '/tags'
