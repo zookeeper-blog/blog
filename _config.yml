@@ -20,9 +20,9 @@ url: https://zookeeper-blog.github.io
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'fork'
+  - title: 'Soft'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'I'
+  - title: 'Sharding'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
   - title: 'Tags'
     url: '/tags'
@@ -39,11 +39,11 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
+  name:           孙辞刚
+  site:          https://zookeeper-blog.github.io
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          zoo_keeper@163.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
