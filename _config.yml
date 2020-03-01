@@ -20,9 +20,9 @@ url: https://zookeeper-blog.github.io
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
+  - title: 'Software'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
+  - title: 'Sharding'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
   - title: 'Tags'
     url: '/tags'
@@ -72,7 +72,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    China/shanghai
 locale:      en_US
 future:      true
 highlighter: rouge
